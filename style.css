@@ -1,0 +1,71 @@
+
+    
+  
+/* hero section */
+section.hero {
+    padding:0 1rem ;
+    height: 700px;
+    border: 2px solid transparent;
+    position: relative;
+    background-color: rgb(237, 238, 239);
+    z-index: -1;
+    justify-content: center;
+}
+
+.hero > h1{
+    font-size: 2rem;
+    font-weight: 300;
+    margin-top: 10rem;
+    min-width: 220px;
+    width: 40%;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200px;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;*/
+   
+}
+
+
+
+.hero .Actions {
+    margin-top: 4rem;  
+    border-radius: 10px;
+    height: 20%;
+    display: inline; 
+}
+
+
+.hero.img {
+    position: relative;
+}
+
+.hero.img {
+    justify-content: right;
+    position: absolute;
+    top: 30px;
+    right: 0;
+    padding-left: 10px;
+ display: flex;
+
+}
+
+.main{
+ display: flex;
+ align-items: center;
+ margin-top: 5px;
+ gap: 10px;
+ top: 39px;
+ 
+}
+.content{
+    width: 500px;
+}
+
+
+
+
+
+
+    
